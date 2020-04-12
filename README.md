@@ -36,7 +36,7 @@ ZIP
 ## Step 2
 When you have the zip, copy it to your phone, and in Magisk manager go to Modules -> tap on the + symbol and select the zip.
 
-## Reboot and
+## Step 3
 Reboot your device and you should have the sync adapters, however you're not done yet. The next step is to go to settings -> apps -> memu -> Show system
 
 Find Google Backup Transport, Google Calendar Sync and Google Contacts sync, for all three, grant the permissions it wants.
